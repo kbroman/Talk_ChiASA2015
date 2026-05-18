@@ -3,7 +3,7 @@
 These are slides for a talk that I gave for the Chicago ASA
 on 15 December 2015.
 
-See them in action [here](https://www.biostat.wisc.edu/~kbroman/presentations/ChiASA2015).
+See them in action [here](https://kbroman.org/Talk_ChiASA2015/).
 
 ---
 
